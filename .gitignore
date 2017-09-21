@@ -6,12 +6,10 @@
 .project
 .settings
 bin
-build
 target
 dependency-reduced-pom.xml
 *.sublime-*
 /scratch
 .gradle
 README.html
-*.iml
 .idea
